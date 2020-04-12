@@ -11,7 +11,7 @@ const AppHeader = props => {
             <img src={logo} className="app-logo" alt="logo" />
             <div className="app-title-text">
               <h1 className="app-title">Groupo 4</h1>
-              <p className="app-intro">Applicacion de necesidades</p>
+              <p className="app-intro">2020 | Applicacion de necesidades</p>
             </div>
           </div>
         </div>
